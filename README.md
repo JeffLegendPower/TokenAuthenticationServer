@@ -3,6 +3,7 @@ Authenticate a client using http requests
 
 Note: This is mostly a proof of concept project
 Uses express and bodyparser
+Node server
 
 How to use:
 send a POST request with header application/json to the server
